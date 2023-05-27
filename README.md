@@ -1,5 +1,5 @@
 # Stock Sense API 
-## Product Inventory Management API Documentation
+Product Inventory Management API Documentation
 
 ## Introduction
 The Product Inventory Management API allows users to manage products, categories, suppliers, and generate inventory reports. This documentation provides an overview of the API endpoints, their functionality, and usage instructions.
