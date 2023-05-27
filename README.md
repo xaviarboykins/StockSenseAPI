@@ -1,4 +1,4 @@
-# Stock Sense API 
+# StockSense API 
 Product Inventory Management API Documentation
 
 ## Introduction
