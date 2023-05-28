@@ -284,4 +284,4 @@ Status: 200 OK
 
 ## Conclusion
 
-This concludes the documentation for the Product Inventory Management API. For any further assistance or inquiries, please contact our support team at xaviarboykins@outlook.com.
+This concludes the documentation for the Product Inventory Management API. For any inquiries, please contact me at xaviarboykins@outlook.com.
