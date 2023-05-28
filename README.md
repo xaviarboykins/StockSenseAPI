@@ -5,7 +5,7 @@ Product Inventory Management API Documentation
 The Product Inventory Management API allows users to manage products, categories, suppliers, and generate inventory reports. This documentation provides an overview of the API endpoints, their functionality, and usage instructions.
 
 ## Base URL
-The base URL for all API endpoints is `https://api.example.com`.
+The base URL for all API endpoints is `https://api.example.com`. !!!!No Active endpoint yet!!!!
 
 ## Authentication
 Authentication is required to access the API endpoints. All requests must include an `Authorization` header with a valid access token.
